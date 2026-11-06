@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "stoney",
+  "version": "${version}",
+  "name": "Stoney",
+  "description": "Renewable stone variants using vanilla lava and water interactions.",
+  "environment": "*",
+  "entrypoints": { "main": ["dev.stoney.Stoney"] },
+  "mixins": ["stoney.mixins.json"],
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "26.3", "java": ">=25", "fabric-api": "*" }
+}

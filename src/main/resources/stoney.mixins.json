@@ -1,0 +1,1 @@
+{ "required": true, "package": "dev.stoney.mixin", "compatibilityLevel": "JAVA_25", "mixins": ["LiquidBlockMixin", "LavaFluidMixin"], "injectors": { "defaultRequire": 1 } }
